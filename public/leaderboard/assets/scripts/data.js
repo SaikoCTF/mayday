@@ -1,5 +1,5 @@
 data = {
-    "challenges" : [
+        "challenges" : [
         {
     	   "id": 1,
              "name": "Ante Up",
@@ -50,6 +50,40 @@ data = {
              "name": "Land of Fruits",
              "allowed_time": "1:00:00.000000"
         },
-],
-"participants": [ ]
+
+    ],
+    "participants": [
+
+{
+    "id": "P57660",
+    "handle": "SaltyTemplar",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:04:33.958123"
+        }
+    ]
+},
+{
+    "id": "P72470",
+    "handle": "EquableBattlemind",
+    "challenges": []
+},
+{
+    "id": "P76075",
+    "handle": "NeatNavigator",
+    "challenges": []
+},
+,
+{
+    "id": "P89296",
+    "handle": "GreatCleric",
+    "challenges": []
+},
+{
+    "id": "P92746",
+    "handle": "SteelTemplar",
+    "challenges": []
+},
+    ]
 }
