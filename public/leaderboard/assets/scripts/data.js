@@ -147,6 +147,10 @@ data = {
     "handle": "GreatBrawler",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:08:17.209588"
+        },
+        {
             "id": 1,
             "time": "0:09:50.507301"
         },
