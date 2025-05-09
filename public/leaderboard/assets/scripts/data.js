@@ -913,6 +913,10 @@ data = {
     "handle": "WoodenSpellsword",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:07:40.059251"
+        },
+        {
             "id": 1,
             "time": "0:10:16.715064"
         },
