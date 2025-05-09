@@ -714,6 +714,16 @@ data = {
     ]
 },
 {
+    "id": "P95329",
+    "handle": "WhiteInfiltrator",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:33:35.083381"
+        }
+    ]
+},
+{
     "id": "P95416",
     "handle": "EarthyOutrider",
     "challenges": []
