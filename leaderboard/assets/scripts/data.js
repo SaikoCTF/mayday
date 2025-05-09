@@ -661,6 +661,10 @@ data = {
     "handle": "WhimsicalLoremaster",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:12:27.190632"
+        },
+        {
             "id": 1,
             "time": "0:18:44.490671"
         },
