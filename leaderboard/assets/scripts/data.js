@@ -199,6 +199,10 @@ data = {
     "handle": "DeliriousBerserker",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:06:45.930903"
+        },
+        {
             "id": 1,
             "time": "0:30:46.312030"
         },
