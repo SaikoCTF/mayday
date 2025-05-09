@@ -137,6 +137,10 @@ data = {
     "handle": "GoofyConjurer",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:08:14.529691"
+        },
+        {
             "id": 1,
             "time": "0:23:35.103336"
         },
