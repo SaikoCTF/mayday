@@ -74,5 +74,10 @@ data = {
     "handle": "InquisitiveKristomancer",
     "challenges": []
 },
+{
+    "id": "P68731",
+    "handle": "ComplexSamurai",
+    "challenges": []
+},
     ]
 }
