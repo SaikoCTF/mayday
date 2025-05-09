@@ -124,6 +124,16 @@ data = {
     "challenges": []
 },
 {
+    "id": "P67269",
+    "handle": "FierceMercenary",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:46:02.738753"
+        }
+    ]
+},
+{
     "id": "P68731",
     "handle": "ComplexSamurai",
     "challenges": []
