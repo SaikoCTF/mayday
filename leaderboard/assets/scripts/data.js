@@ -173,6 +173,10 @@ data = {
     "handle": "FamousSpellthief",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:03:51.575159"
+        },
+        {
             "id": 1,
             "time": "0:04:49.900291"
         },
