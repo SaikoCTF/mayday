@@ -895,6 +895,16 @@ data = {
     ]
 },
 {
+    "id": "P87602",
+    "handle": "ForgetfulLegionnaire",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:06:41.825762"
+        }
+    ]
+},
+{
     "id": "P88405",
     "handle": "ProductiveRanger",
     "challenges": [
