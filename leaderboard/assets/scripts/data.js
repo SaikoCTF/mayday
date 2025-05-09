@@ -882,6 +882,10 @@ data = {
     "handle": "WhiteInfiltrator",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:14:31.946125"
+        },
+        {
             "id": 1,
             "time": "0:33:35.083381"
         },
