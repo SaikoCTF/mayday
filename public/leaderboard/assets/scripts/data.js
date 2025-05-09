@@ -59,6 +59,10 @@ data = {
     "handle": "MentalSkymage",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:05:15.584924"
+        },
+        {
             "id": 1,
             "time": "0:13:32.016318"
         },
