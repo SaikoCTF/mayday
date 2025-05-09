@@ -109,6 +109,16 @@ data = {
     ]
 },
 {
+    "id": "P49718",
+    "handle": "FamousSpellthief",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:04:49.900291"
+        }
+    ]
+},
+{
     "id": "P55672",
     "handle": "IndustriousCleric",
     "challenges": [
