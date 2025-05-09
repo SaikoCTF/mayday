@@ -450,6 +450,16 @@ data = {
     ]
 },
 {
+    "id": "P91544",
+    "handle": "DomineeringBattlemage",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:07:24.654895"
+        }
+    ]
+},
+{
     "id": "P94283",
     "handle": "WoodenHarbinger",
     "challenges": [
