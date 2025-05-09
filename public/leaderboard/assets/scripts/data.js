@@ -257,5 +257,19 @@ data = {
     "handle": "EarthyOutrider",
     "challenges": []
 },
+{
+    "id": "P99960",
+    "handle": "BashfulSoulguard",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:43:25.766193"
+        },
+        {
+            "id": 2,
+            "time": "0:01:51.985279"
+        }
+    ]
+},
     ]
 }
