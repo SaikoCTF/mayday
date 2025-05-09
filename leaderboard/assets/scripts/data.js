@@ -516,6 +516,10 @@ data = {
     "handle": "SneakyPriest",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:03:46.105001"
+        },
+        {
             "id": 1,
             "time": "0:27:15.721141"
         },
