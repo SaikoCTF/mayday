@@ -341,6 +341,10 @@ data = {
     "handle": "FierceMercenary",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:47:04.239453"
+        },
+        {
             "id": 1,
             "time": "0:46:02.738753"
         },
