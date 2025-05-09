@@ -219,6 +219,10 @@ data = {
     "handle": "CrazyWindwalker",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:18:18.521963"
+        },
+        {
             "id": 1,
             "time": "0:37:46.042203"
         },
