@@ -765,6 +765,10 @@ data = {
     "handle": "TruthfulGeomancer",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:15:14.918657"
+        },
+        {
             "id": 1,
             "time": "0:33:33.188356"
         },
