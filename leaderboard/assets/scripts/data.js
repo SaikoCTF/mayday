@@ -165,6 +165,20 @@ data = {
     ]
 },
 {
+    "id": "P41318",
+    "handle": "CrazyWindwalker",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:37:46.042203"
+        },
+        {
+            "id": 2,
+            "time": "0:08:46.064496"
+        }
+    ]
+},
+{
     "id": "P41686",
     "handle": "GoldenSamurai",
     "challenges": [
