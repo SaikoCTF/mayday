@@ -141,6 +141,16 @@ data = {
     ]
 },
 {
+    "id": "P16883",
+    "handle": "WanderingGeomancer",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:31:54.440086"
+        }
+    ]
+},
+{
     "id": "P16891",
     "handle": "InquisitiveParagon",
     "challenges": []
@@ -234,6 +244,16 @@ data = {
         {
             "id": 2,
             "time": "0:20:23.167554"
+        }
+    ]
+},
+{
+    "id": "P20850",
+    "handle": "SulkyPirate",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:47:31.420005"
         }
     ]
 },
@@ -1065,6 +1085,10 @@ data = {
         {
             "id": 5,
             "time": "0:02:41.969894"
+        },
+        {
+            "id": 9,
+            "time": "0:23:31.908267"
         },
         {
             "id": 4,
