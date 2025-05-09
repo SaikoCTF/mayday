@@ -60,6 +60,16 @@ data = {
     "challenges": []
 },
 {
+    "id": "P41686",
+    "handle": "GoldenSamurai",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:07:44.616687"
+        }
+    ]
+},
+{
     "id": "P65478",
     "handle": "InquisitiveKristomancer",
     "challenges": []
