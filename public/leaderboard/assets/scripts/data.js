@@ -605,6 +605,16 @@ data = {
     ]
 },
 {
+    "id": "P58205",
+    "handle": "WhimsicalLoremaster",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:18:44.490671"
+        }
+    ]
+},
+{
     "id": "P59711",
     "handle": "WanderingSeer",
     "challenges": [
