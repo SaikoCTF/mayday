@@ -81,6 +81,10 @@ data = {
     "handle": "BashfulSamurai",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:03:55.006589"
+        },
+        {
             "id": 1,
             "time": "0:08:14.005622"
         },
