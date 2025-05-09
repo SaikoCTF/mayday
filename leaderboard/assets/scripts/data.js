@@ -602,6 +602,10 @@ data = {
     "handle": "BashfulSoulguard",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:14:35.244275"
+        },
+        {
             "id": 1,
             "time": "0:43:25.766193"
         },
