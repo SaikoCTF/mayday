@@ -589,6 +589,20 @@ data = {
     ]
 },
 {
+    "id": "P59711",
+    "handle": "WanderingSeer",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:25:28.975250"
+        },
+        {
+            "id": 3,
+            "time": "0:06:24.067507"
+        }
+    ]
+},
+{
     "id": "P60849",
     "handle": "HelplessPirate",
     "challenges": [
