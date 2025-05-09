@@ -883,7 +883,16 @@ data = {
 {
     "id": "P96319",
     "handle": "WoodenSpiritwalker",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 3,
+            "time": "0:18:22.114492"
+        },
+        {
+            "id": 2,
+            "time": "0:34:01.750557"
+        }
+    ]
 },
 {
     "id": "P97663",
