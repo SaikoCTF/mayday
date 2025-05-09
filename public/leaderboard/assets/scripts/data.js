@@ -89,6 +89,16 @@ data = {
     ]
 },
 {
+    "id": "P39357",
+    "handle": "EquableLegionnaire",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:51:42.094444"
+        }
+    ]
+},
+{
     "id": "P41686",
     "handle": "GoldenSamurai",
     "challenges": [
