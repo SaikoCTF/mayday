@@ -885,6 +885,16 @@ data = {
     ]
 },
 {
+    "id": "P82382",
+    "handle": "AloofNavigator",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:17:03.243335"
+        }
+    ]
+},
+{
     "id": "P88405",
     "handle": "ProductiveRanger",
     "challenges": [
