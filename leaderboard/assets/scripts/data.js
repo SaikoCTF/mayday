@@ -696,7 +696,12 @@ data = {
 {
     "id": "P68731",
     "handle": "ComplexSamurai",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 4,
+            "time": "0:03:52.552090"
+        }
+    ]
 },
 {
     "id": "P71256",
