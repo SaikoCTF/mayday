@@ -221,6 +221,10 @@ data = {
     "handle": "ImperfectSamurai",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:10:03.641956"
+        },
+        {
             "id": 1,
             "time": "0:32:03.311347"
         },
