@@ -80,6 +80,16 @@ data = {
     ]
 },
 {
+    "id": "P56489",
+    "handle": "ImperfectSamurai",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:32:03.311347"
+        }
+    ]
+},
+{
     "id": "P57701",
     "handle": "DeliriousBerserker",
     "challenges": [
