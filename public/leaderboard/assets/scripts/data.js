@@ -131,6 +131,16 @@ data = {
     ]
 },
 {
+    "id": "P33169",
+    "handle": "ScaryJester",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:20:42.888840"
+        }
+    ]
+},
+{
     "id": "P39357",
     "handle": "EquableLegionnaire",
     "challenges": [
