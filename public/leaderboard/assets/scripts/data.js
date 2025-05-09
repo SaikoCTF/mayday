@@ -297,6 +297,16 @@ data = {
     ]
 },
 {
+    "id": "P55934",
+    "handle": "GoldenRanger",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:16:52.196926"
+        }
+    ]
+},
+{
     "id": "P56375",
     "handle": "DomineeringGunslinger",
     "challenges": []
