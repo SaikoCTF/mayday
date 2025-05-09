@@ -408,6 +408,16 @@ data = {
     ]
 },
 {
+    "id": "P60849",
+    "handle": "HelplessPirate",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:18:48.198968"
+        }
+    ]
+},
+{
     "id": "P65478",
     "handle": "InquisitiveKristomancer",
     "challenges": []
