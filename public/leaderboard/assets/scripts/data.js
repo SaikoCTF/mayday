@@ -394,6 +394,16 @@ data = {
     "challenges": []
 },
 {
+    "id": "P95790",
+    "handle": "WoodenSpellsword",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:10:16.715064"
+        }
+    ]
+},
+{
     "id": "P97663",
     "handle": "EquableChameleon",
     "challenges": []
