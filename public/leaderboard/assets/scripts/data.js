@@ -199,6 +199,16 @@ data = {
     ]
 },
 {
+    "id": "P16675",
+    "handle": "AwfulBattlemind",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:16:52.223005"
+        }
+    ]
+},
+{
     "id": "P16801",
     "handle": "AttractiveMage",
     "challenges": []
@@ -906,36 +916,7 @@ data = {
         }
     ]
 },
-{
-    "id": "P41320",
-    "handle": "GreatRanger",
-    "challenges": [
-        {
-            "id": 6,
-            "time": "0:16:12.506873"
-        },
-        {
-            "id": 3,
-            "time": "0:36:50.493338"
-        },
-        {
-            "id": 2,
-            "time": "0:08:24.860735"
-        },
-        {
-            "id": 7,
-            "time": "0:42:56.309176"
-        },
-        {
-            "id": 5,
-            "time": "0:02:56.422847"
-        },
-        {
-            "id": 4,
-            "time": "0:50:23.001333"
-        }
-    ]
-},
+,
 {
     "id": "P41686",
     "handle": "GoldenSamurai",
