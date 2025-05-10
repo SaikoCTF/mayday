@@ -983,6 +983,10 @@ data = {
     "handle": "HelplessPirate",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:14:11.147590"
+        },
+        {
             "id": 1,
             "time": "0:18:48.198968"
         },
