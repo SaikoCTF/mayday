@@ -59,6 +59,10 @@ data = {
     "handle": "AwfulHealer",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:21:02.425097"
+        },
+        {
             "id": 2,
             "time": "0:15:11.374070"
         }
