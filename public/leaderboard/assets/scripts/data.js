@@ -751,7 +751,12 @@ data = {
 {
     "id": "P41320",
     "handle": "GreatRanger",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:08:24.860735"
+        }
+    ]
 },
 {
     "id": "P41686",
