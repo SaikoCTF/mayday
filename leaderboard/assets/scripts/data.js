@@ -204,7 +204,12 @@ data = {
 {
     "id": "P16891",
     "handle": "InquisitiveParagon",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:03:57.298029"
+        }
+    ]
 },
 {
     "id": "P16912",
