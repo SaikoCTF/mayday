@@ -962,6 +962,11 @@ data = {
     ]
 },
 {
+    "id": "P60092",
+    "handle": "FixedLoremaster",
+    "challenges": []
+},
+{
     "id": "P60849",
     "handle": "HelplessPirate",
     "challenges": [
