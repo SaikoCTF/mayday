@@ -909,7 +909,7 @@ data = {
     "challenges": [
         {
             "id": 2,
-            "time": "0:05:40.612017"
+            "time": "0:02:25.400017"
         }
     ]
 },
@@ -1154,6 +1154,10 @@ data = {
     "id": "P87602",
     "handle": "ForgetfulLegionnaire",
     "challenges": [
+        {
+            "id": 6,
+            "time": "0:19:35.416837"
+        },
         {
             "id": 1,
             "time": "0:06:41.825762"
