@@ -1437,6 +1437,11 @@ data = {
     ]
 },
 {
+    "id": "P74164",
+    "handle": "SupremeSkyguard",
+    "challenges": []
+},
+{
     "id": "P75781",
     "handle": "IncandescentBerserker",
     "challenges": [
