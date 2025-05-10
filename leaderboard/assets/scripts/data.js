@@ -465,12 +465,37 @@ data = {
 {
     "id": "P33381",
     "handle": "AttractiveBattlemind",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 6,
+            "time": "0:07:56.483199"
+        },
+        {
+            "id": 2,
+            "time": "0:07:23.492480"
+        },
+        {
+            "id": 7,
+            "time": "0:07:45.734018"
+        },
+        {
+            "id": 5,
+            "time": "0:06:44.333098"
+        },
+        {
+            "id": 4,
+            "time": "0:10:42.694625"
+        }
+    ]
 },
 {
     "id": "P37193",
     "handle": "SorryPirate",
     "challenges": [
+        {
+            "id": 6,
+            "time": "0:14:51.673459"
+        },
         {
             "id": 2,
             "time": "0:05:43.137428"
