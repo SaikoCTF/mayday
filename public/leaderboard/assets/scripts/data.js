@@ -445,6 +445,16 @@ data = {
     ]
 },
 {
+    "id": "P28909",
+    "handle": "VisibleLoremaster",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:22:05.154374"
+        }
+    ]
+},
+{
     "id": "P29705",
     "handle": "SaltyWindwalker",
     "challenges": [
