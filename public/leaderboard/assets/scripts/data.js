@@ -1321,6 +1321,10 @@ data = {
     "handle": "StatuesqueSoulguard",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:21:45.519214"
+        },
+        {
             "id": 3,
             "time": "0:30:58.452275"
         },
