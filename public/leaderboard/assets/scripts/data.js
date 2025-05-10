@@ -1080,8 +1080,12 @@ data = {
     "handle": "FixedLoremaster",
     "challenges": [
         {
+            "id": 3,
+            "time": "0:07:01.969070"
+        },
+        {
             "id": 2,
-            "time": "0:02:44.432580"
+            "time": "0:02:43.955580"
         }
     ]
 },
