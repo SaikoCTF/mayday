@@ -271,6 +271,10 @@ data = {
     "handle": "InquisitiveSamurai",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:04:07.656943"
+        },
+        {
             "id": 1,
             "time": "0:20:40.374095"
         },
