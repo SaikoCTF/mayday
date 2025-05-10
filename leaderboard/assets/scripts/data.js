@@ -221,6 +221,10 @@ data = {
     "handle": "SteelWarrior",
     "challenges": [
         {
+            "id": 3,
+            "time": "0:15:46.816747"
+        },
+        {
             "id": 2,
             "time": "0:17:28.149444"
         }
