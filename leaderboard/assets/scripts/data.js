@@ -215,7 +215,12 @@ data = {
 {
     "id": "P17082",
     "handle": "SteelWarrior",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:17:28.149444"
+        }
+    ]
 },
 {
     "id": "P17091",
