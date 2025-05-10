@@ -882,7 +882,12 @@ data = {
 {
     "id": "P77848",
     "handle": "ForgetfulSpellthief",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:02:10.554722"
+        }
+    ]
 },
 {
     "id": "P79110",
