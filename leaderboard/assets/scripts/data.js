@@ -54,20 +54,7 @@ data = {
     ],
     "participants": [
 
-{
-    "id": "P11174",
-    "handle": "AwfulHealer",
-    "challenges": [
-        {
-            "id": 6,
-            "time": "0:21:02.425097"
-        },
-        {
-            "id": 2,
-            "time": "0:15:11.374070"
-        }
-    ]
-},
+,
 {
     "id": "P12057",
     "handle": "ComplexChameleon",
