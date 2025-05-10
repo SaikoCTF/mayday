@@ -71,7 +71,12 @@ data = {
 {
     "id": "P11434",
     "handle": "SaltyVampire",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:02:29.803678"
+        }
+    ]
 },
 {
     "id": "P12057",
