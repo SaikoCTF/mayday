@@ -952,6 +952,10 @@ data = {
     "handle": "WanderingLord",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:03:18.091952"
+        },
+        {
             "id": 1,
             "time": "0:11:17.252046"
         },
