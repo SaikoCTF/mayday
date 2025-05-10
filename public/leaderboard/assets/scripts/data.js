@@ -206,6 +206,10 @@ data = {
     "handle": "InquisitiveParagon",
     "challenges": [
         {
+            "id": 3,
+            "time": "0:31:57.441541"
+        },
+        {
             "id": 2,
             "time": "0:03:57.298029"
         }
