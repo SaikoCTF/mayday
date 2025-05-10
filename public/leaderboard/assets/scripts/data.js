@@ -823,6 +823,10 @@ data = {
     "handle": "GreatRanger",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:16:12.506873"
+        },
+        {
             "id": 3,
             "time": "0:36:50.493338"
         },
