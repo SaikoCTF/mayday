@@ -419,7 +419,12 @@ data = {
 {
     "id": "P33381",
     "handle": "AttractiveBattlemind",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:07:23.072480"
+        }
+    ]
 },
 {
     "id": "P39357",
