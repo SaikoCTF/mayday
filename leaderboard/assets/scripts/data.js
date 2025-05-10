@@ -227,6 +227,16 @@ data = {
     ]
 },
 {
+    "id": "P16720",
+    "handle": "ImperfectNavigator",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:22:03.487604"
+        }
+    ]
+},
+{
     "id": "P16801",
     "handle": "AttractiveMage",
     "challenges": []
