@@ -221,6 +221,16 @@ data = {
     ]
 },
 {
+    "id": "P16952",
+    "handle": "InquisitiveSamurai",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:20:40.374095"
+        }
+    ]
+},
+{
     "id": "P17082",
     "handle": "SteelWarrior",
     "challenges": [
@@ -1002,7 +1012,40 @@ data = {
         }
     ]
 },
-,
+{
+    "id": "P79110",
+    "handle": "WanderingLord",
+    "challenges": [
+        {
+            "id": 6,
+            "time": "0:03:17.891952"
+        },
+        {
+            "id": 1,
+            "time": "0:11:17.019046"
+        },
+        {
+            "id": 2,
+            "time": "0:01:50.554412"
+        },
+        {
+            "id": 7,
+            "time": "0:13:38.076507"
+        },
+        {
+            "id": 5,
+            "time": "0:01:17.810930"
+        },
+        {
+            "id": 9,
+            "time": "0:14:06.353777"
+        },
+        {
+            "id": 4,
+            "time": "0:12:46.178630"
+        }
+    ]
+},
 {
     "id": "P81264",
     "handle": "GreatSkyguard",
