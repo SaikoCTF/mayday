@@ -1005,6 +1005,10 @@ data = {
     "handle": "ColossalChameleon",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:15:46.771053"
+        },
+        {
             "id": 1,
             "time": "0:31:19.606581"
         },
