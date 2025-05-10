@@ -1168,32 +1168,7 @@ data = {
     "handle": "LackadaisicalSkymage",
     "challenges": []
 },
-{
-    "id": "P87602",
-    "handle": "ForgetfulLegionnaire",
-    "challenges": [
-        {
-            "id": 6,
-            "time": "0:19:35.416837"
-        },
-        {
-            "id": 1,
-            "time": "0:06:41.825762"
-        },
-        {
-            "id": 3,
-            "time": "0:37:43.647493"
-        },
-        {
-            "id": 5,
-            "time": "0:01:35.885093"
-        },
-        {
-            "id": 4,
-            "time": "0:10:29.747018"
-        }
-    ]
-},
+,
 {
     "id": "P88405",
     "handle": "ProductiveRanger",
