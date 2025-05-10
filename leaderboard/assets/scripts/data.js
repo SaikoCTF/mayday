@@ -1308,6 +1308,16 @@ data = {
     ]
 },
 {
+    "id": "P66692",
+    "handle": "SupremeHealer",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:07:31.300660"
+        }
+    ]
+},
+{
     "id": "P67269",
     "handle": "FierceMercenary",
     "challenges": [
