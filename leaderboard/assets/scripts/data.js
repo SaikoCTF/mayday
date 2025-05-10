@@ -662,6 +662,20 @@ data = {
     ]
 },
 {
+    "id": "P45252",
+    "handle": "CallousDoomlord",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:16:03.044370"
+        },
+        {
+            "id": 2,
+            "time": "0:01:14.673495"
+        }
+    ]
+},
+{
     "id": "P49473",
     "handle": "GreatBrawler",
     "challenges": [
