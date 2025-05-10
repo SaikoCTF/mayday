@@ -715,6 +715,10 @@ data = {
     "handle": "CallousDoomlord",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:07:38.881793"
+        },
+        {
             "id": 1,
             "time": "0:16:03.044370"
         },
