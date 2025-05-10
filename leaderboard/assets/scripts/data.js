@@ -880,6 +880,11 @@ data = {
     ]
 },
 {
+    "id": "P77848",
+    "handle": "ForgetfulSpellthief",
+    "challenges": []
+},
+{
     "id": "P79110",
     "handle": "WanderingLord",
     "challenges": [
