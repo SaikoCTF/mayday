@@ -998,6 +998,10 @@ data = {
     "handle": "StatuesqueSoulguard",
     "challenges": [
         {
+            "id": 3,
+            "time": "0:30:58.452275"
+        },
+        {
             "id": 2,
             "time": "0:05:27.507639"
         }
