@@ -609,6 +609,10 @@ data = {
     "handle": "EquableLegionnaire",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:42:15.812329"
+        },
+        {
             "id": 1,
             "time": "0:51:42.094444"
         },
