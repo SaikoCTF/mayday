@@ -457,7 +457,12 @@ data = {
 {
     "id": "P37193",
     "handle": "SorryPirate",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:05:43.137428"
+        }
+    ]
 },
 {
     "id": "P39357",
