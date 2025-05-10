@@ -1705,6 +1705,11 @@ data = {
     ]
 },
 {
+    "id": "P94551",
+    "handle": "WanderingMage",
+    "challenges": []
+},
+{
     "id": "P95329",
     "handle": "WhiteInfiltrator",
     "challenges": [
