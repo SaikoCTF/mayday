@@ -239,6 +239,10 @@ data = {
     "handle": "CriticalPirate",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:25:08.056100"
+        },
+        {
             "id": 1,
             "time": "0:23:52.028344"
         },
