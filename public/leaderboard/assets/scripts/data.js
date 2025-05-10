@@ -571,6 +571,10 @@ data = {
     "handle": "ProductiveBrawler",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:10:13.799823"
+        },
+        {
             "id": 1,
             "time": "0:15:04.149955"
         },
