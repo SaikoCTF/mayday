@@ -1439,7 +1439,12 @@ data = {
 {
     "id": "P74164",
     "handle": "SupremeSkyguard",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:03:06.059932"
+        }
+    ]
 },
 {
     "id": "P75781",
