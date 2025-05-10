@@ -73,6 +73,10 @@ data = {
     "handle": "ComplexChameleon",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:33:05.991527"
+        },
+        {
             "id": 1,
             "time": "0:49:52.315926"
         },
