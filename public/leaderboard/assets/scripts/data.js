@@ -1451,6 +1451,10 @@ data = {
     "handle": "SupremeSkyguard",
     "challenges": [
         {
+            "id": 3,
+            "time": "0:06:49.974104"
+        },
+        {
             "id": 2,
             "time": "0:03:06.059932"
         }
