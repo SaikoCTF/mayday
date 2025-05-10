@@ -499,6 +499,10 @@ data = {
             "time": "0:06:44.116098"
         },
         {
+            "id": 9,
+            "time": "0:05:23.198544"
+        },
+        {
             "id": 4,
             "time": "0:10:42.859625"
         }
@@ -1168,7 +1172,36 @@ data = {
     "handle": "LackadaisicalSkymage",
     "challenges": []
 },
-,
+{
+    "id": "P87602",
+    "handle": "ForgetfulLegionnaire",
+    "challenges": [
+        {
+            "id": 6,
+            "time": "0:19:35.226837"
+        },
+        {
+            "id": 1,
+            "time": "0:06:41.737762"
+        },
+        {
+            "id": 3,
+            "time": "0:37:43.906493"
+        },
+        {
+            "id": 7,
+            "time": "0:14:51.783285"
+        },
+        {
+            "id": 5,
+            "time": "0:01:35.822093"
+        },
+        {
+            "id": 4,
+            "time": "0:10:29.687018"
+        }
+    ]
+},
 {
     "id": "P88405",
     "handle": "ProductiveRanger",
