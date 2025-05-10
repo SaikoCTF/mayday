@@ -944,6 +944,10 @@ data = {
     "handle": "WanderingSeer",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:10:47.945242"
+        },
+        {
             "id": 1,
             "time": "0:25:28.975250"
         },
