@@ -959,6 +959,16 @@ data = {
     ]
 },
 {
+    "id": "P57725",
+    "handle": "EarthySeer",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:11:04.784962"
+        }
+    ]
+},
+{
     "id": "P57944",
     "handle": "StatuesqueSoulguard",
     "challenges": [
