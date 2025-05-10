@@ -249,6 +249,10 @@ data = {
     "handle": "WhiteWarrior",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:11:50.700790"
+        },
+        {
             "id": 1,
             "time": "0:23:30.456876"
         },
