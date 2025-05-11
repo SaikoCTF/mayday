@@ -255,6 +255,10 @@ data = {
     "handle": "ImperfectNavigator",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:10:50.269327"
+        },
+        {
             "id": 1,
             "time": "0:22:03.487604"
         },
@@ -1075,32 +1079,7 @@ data = {
         }
     ]
 },
-{
-    "id": "P41250",
-    "handle": "ImportantBattlemage",
-    "challenges": [
-        {
-            "id": 1,
-            "time": "0:40:28.244352"
-        },
-        {
-            "id": 3,
-            "time": "0:18:27.457301"
-        },
-        {
-            "id": 2,
-            "time": "0:01:38.693019"
-        },
-        {
-            "id": 5,
-            "time": "0:09:42.578047"
-        },
-        {
-            "id": 4,
-            "time": "0:36:21.812279"
-        }
-    ]
-},
+,
 {
     "id": "P41318",
     "handle": "CrazyWindwalker",
