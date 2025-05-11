@@ -68,7 +68,24 @@ data = {
         }
     ]
 },
-,
+{
+    "id": "P11434",
+    "handle": "SaltyVampire",
+    "challenges": [
+        {
+            "id": 6,
+            "time": "0:15:46.437236"
+        },
+        {
+            "id": 2,
+            "time": "0:02:29.803678"
+        },
+        {
+            "id": 7,
+            "time": "0:15:40.926964"
+        }
+    ]
+},
 {
     "id": "P12057",
     "handle": "ComplexChameleon",
