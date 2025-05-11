@@ -1863,6 +1863,16 @@ data = {
     ]
 },
 {
+    "id": "P74269",
+    "handle": "StatuesqueRanger",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:33:07.224405"
+        }
+    ]
+},
+{
     "id": "P75781",
     "handle": "IncandescentBerserker",
     "challenges": [
