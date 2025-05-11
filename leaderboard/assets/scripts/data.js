@@ -844,6 +844,11 @@ data = {
     ]
 },
 {
+    "id": "P27190",
+    "handle": "EarthySpiritwalker",
+    "challenges": []
+},
+{
     "id": "P28909",
     "handle": "VisibleLoremaster",
     "challenges": [
