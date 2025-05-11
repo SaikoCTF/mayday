@@ -2510,6 +2510,16 @@ data = {
     ]
 },
 {
+    "id": "P90483",
+    "handle": "GoldenPriest",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:28:40.382072"
+        }
+    ]
+},
+{
     "id": "P90558",
     "handle": "TruthfulGeomancer",
     "challenges": [
