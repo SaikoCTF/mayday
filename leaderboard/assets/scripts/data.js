@@ -1731,6 +1731,16 @@ data = {
     ]
 },
 {
+    "id": "P60822",
+    "handle": "WhiteBrawler",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:28:26.121366"
+        }
+    ]
+},
+{
     "id": "P60849",
     "handle": "HelplessPirate",
     "challenges": [
