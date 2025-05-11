@@ -73,6 +73,10 @@ data = {
     "handle": "SaltyVampire",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:15:46.437236"
+        },
+        {
             "id": 2,
             "time": "0:02:29.803678"
         }
