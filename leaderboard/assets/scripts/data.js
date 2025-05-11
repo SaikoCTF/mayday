@@ -2178,6 +2178,16 @@ data = {
     ]
 },
 {
+    "id": "P68458",
+    "handle": "RitzySpellthief",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:08:46.735678"
+        }
+    ]
+},
+{
     "id": "P68731",
     "handle": "ComplexSamurai",
     "challenges": [
