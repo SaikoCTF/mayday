@@ -874,6 +874,10 @@ data = {
     "handle": "EarthySpiritwalker",
     "challenges": [
         {
+            "id": 3,
+            "time": "0:16:46.778803"
+        },
+        {
             "id": 2,
             "time": "0:17:33.512399"
         }
