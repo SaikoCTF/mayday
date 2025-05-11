@@ -352,6 +352,10 @@ data = {
     "handle": "PracticalSpellsword",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:09:02.197768"
+        },
+        {
             "id": 1,
             "time": "0:03:49.661613"
         },
