@@ -1377,7 +1377,12 @@ data = {
 {
     "id": "P49411",
     "handle": "ProductiveConjurer",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:07:25.843107"
+        }
+    ]
 },
 {
     "id": "P49473",
