@@ -3071,6 +3071,16 @@ data = {
     ]
 },
 {
+    "id": "P98621",
+    "handle": "ProfuseWeaver",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:19:09.168088"
+        }
+    ]
+},
+{
     "id": "P99960",
     "handle": "BashfulSoulguard",
     "challenges": [
