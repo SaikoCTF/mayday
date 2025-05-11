@@ -772,6 +772,20 @@ data = {
     ]
 },
 {
+    "id": "P25156",
+    "handle": "GustyCleric",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:05:18.010166"
+        },
+        {
+            "id": 2,
+            "time": "0:00:45.288457"
+        }
+    ]
+},
+{
     "id": "P26216",
     "handle": "ProductiveBrawler",
     "challenges": [
