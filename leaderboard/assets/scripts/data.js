@@ -1278,6 +1278,16 @@ data = {
     ]
 },
 {
+    "id": "P40167",
+    "handle": "GlamorousHarbinger",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:04:23.779071"
+        }
+    ]
+},
+{
     "id": "P41250",
     "handle": "ImportantBattlemage",
     "challenges": [
