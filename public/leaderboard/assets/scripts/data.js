@@ -1391,6 +1391,10 @@ data = {
     "handle": "ProductiveConjurer",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:05:37.837821"
+        },
+        {
             "id": 3,
             "time": "0:07:37.879807"
         },
