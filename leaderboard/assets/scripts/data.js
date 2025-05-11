@@ -905,6 +905,11 @@ data = {
     "challenges": []
 },
 {
+    "id": "P35616",
+    "handle": "GoofyPriest",
+    "challenges": []
+},
+{
     "id": "P37193",
     "handle": "SorryPirate",
     "challenges": [
