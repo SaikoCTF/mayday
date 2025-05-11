@@ -1148,6 +1148,16 @@ data = {
     ]
 },
 {
+    "id": "P48382",
+    "handle": "DashingPirate",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:02:01.779173"
+        }
+    ]
+},
+{
     "id": "P49411",
     "handle": "ProductiveConjurer",
     "challenges": []
