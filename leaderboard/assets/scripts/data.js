@@ -925,7 +925,12 @@ data = {
 {
     "id": "P35616",
     "handle": "GoofyPriest",
-    "challenges": []
+    "challenges": [
+        {
+            "id": 2,
+            "time": "0:02:58.327700"
+        }
+    ]
 },
 {
     "id": "P37193",
