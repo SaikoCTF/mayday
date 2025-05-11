@@ -1324,6 +1324,10 @@ data = {
     "handle": "FearlessConjurer",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:08:31.671374"
+        },
+        {
             "id": 1,
             "time": "0:03:49.684789"
         },
@@ -1813,6 +1817,10 @@ data = {
     "id": "P60822",
     "handle": "WhiteBrawler",
     "challenges": [
+        {
+            "id": 6,
+            "time": "0:08:48.120847"
+        },
         {
             "id": 1,
             "time": "0:28:26.389366"
