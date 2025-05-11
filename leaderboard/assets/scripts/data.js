@@ -1466,6 +1466,10 @@ data = {
     "handle": "VenomousBrawler",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:05:38.893320"
+        },
+        {
             "id": 1,
             "time": "0:05:18.800204"
         },
