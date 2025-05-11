@@ -2568,6 +2568,10 @@ data = {
     "handle": "ForgetfulSpellthief",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:07:41.288996"
+        },
+        {
             "id": 2,
             "time": "0:02:10.554722"
         },
