@@ -1662,6 +1662,16 @@ data = {
     ]
 },
 {
+    "id": "P55799",
+    "handle": "EquableSpellthief",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:04:07.171669"
+        }
+    ]
+},
+{
     "id": "P55934",
     "handle": "GoldenRanger",
     "challenges": [
