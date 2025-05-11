@@ -1454,6 +1454,16 @@ data = {
     ]
 },
 {
+    "id": "P48514",
+    "handle": "VenomousBrawler",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:05:18.800204"
+        }
+    ]
+},
+{
     "id": "P48704",
     "handle": "FearlessConjurer",
     "challenges": [
