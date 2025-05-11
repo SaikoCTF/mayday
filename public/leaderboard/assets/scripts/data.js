@@ -213,6 +213,10 @@ data = {
     "handle": "AwfulBattlemind",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:16:24.544355"
+        },
+        {
             "id": 1,
             "time": "0:16:52.223005"
         },
