@@ -1925,6 +1925,16 @@ data = {
     ]
 },
 {
+    "id": "P68373",
+    "handle": "SulkyLoremaster",
+    "challenges": [
+        {
+            "id": 1,
+            "time": "0:27:14.823221"
+        }
+    ]
+},
+{
     "id": "P68731",
     "handle": "ComplexSamurai",
     "challenges": [
@@ -2509,36 +2519,7 @@ data = {
     "handle": "WanderingMage",
     "challenges": []
 },
-{
-    "id": "P95202",
-    "handle": "IndustriousSwashbuckler",
-    "challenges": [
-        {
-            "id": 1,
-            "time": "0:11:04.956366"
-        },
-        {
-            "id": 3,
-            "time": "0:09:27.058101"
-        },
-        {
-            "id": 2,
-            "time": "0:04:55.443987"
-        },
-        {
-            "id": 7,
-            "time": "0:04:28.612101"
-        },
-        {
-            "id": 5,
-            "time": "0:03:25.875103"
-        },
-        {
-            "id": 4,
-            "time": "0:02:44.852479"
-        }
-    ]
-},
+,
 {
     "id": "P95329",
     "handle": "WhiteInfiltrator",
