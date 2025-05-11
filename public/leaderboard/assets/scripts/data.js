@@ -1114,6 +1114,10 @@ data = {
     "handle": "ProductiveGunslinger",
     "challenges": [
         {
+            "id": 6,
+            "time": "0:10:05.506119"
+        },
+        {
             "id": 1,
             "time": "0:14:50.284936"
         },
